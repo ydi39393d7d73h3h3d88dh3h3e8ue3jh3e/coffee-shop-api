@@ -5,7 +5,7 @@
         "description": "Strong and concentrated coffee with a layer of crema.",
         "image_link": "https://coffeeapi.weebys.space/images/espresso.jpg",
         "qr_code_link": "https://coffeeapi.weebys.space/qr/espresso10_qr.png",
-        "discount_percent": 10
+        "discount_percent": "10"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "description": "Smooth and creamy coffee with steamed milk.",
         "image_link": "https://coffeeapi.weebys.space/images/latte.jpg",
         "qr_code_link": "https://coffeeapi.weebys.space/qr/latte5_qr.gif",
-        "discount_percent": 5
+        "discount_percent": "5"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "description": "A perfect balance of espresso, steamed milk, and foam.",
         "image_link": "https://coffeeapi.weebys.space/images/cappuccino.jpg",
         "qr_code_link": "https://coffeeapi.weebys.space/qr/cappuccino5_qr.png",
-        "discount_percent": 5
+        "discount_percent": "5"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "description": "Espresso with added hot water for a milder flavor.",
         "image_link": "https://coffeeapi.weebys.space/images/americano.jpg",
         "qr_code_link": "https://coffeeapi.weebys.space/qr/americano10_qr.png",
-        "discount_percent": 10
+        "discount_percent": "10"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "description": "Espresso with steamed milk and chocolate.",
         "image_link": "https://coffeeapi.weebys.space/images/mocha.jpg",
         "qr_code_link": "https://coffeeapi.weebys.space/images/mocha15_qr.png",
-        "discount_percent": 15
+        "discount_percent": "15"
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "description": "Espresso marked with a small amount of milk.",
         "image_link": "https://coffeeapi.weebys.space/images/macchiato.jpg",
         "qr_code_link": "https://coffeeapi.weebys.space/images/macchiato5_qr.png",
-        "discount_percent": 5
+        "discount_percent": "5"
     },
     {
         "id": 7,
@@ -53,6 +53,6 @@
         "description": "Espresso with steamed milk, less frothy than a latte.",
         "image_link": "https://coffeeapi.weebys.space/images/flatwhite.jpg",
         "qr_code_link": "https://coffeeapi.weebys.space/images/flatwhite10_qr.png",
-        "discount_percent": 10
+        "discount_percent": "10"
     }
 ]

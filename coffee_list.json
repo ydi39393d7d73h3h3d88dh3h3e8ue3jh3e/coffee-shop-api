@@ -12,7 +12,7 @@
         "type": "Latte",
         "description": "Smooth and creamy coffee with steamed milk.",
         "image_link": "https://coffeeapi.weebys.space/images/latte.jpg",
-        "qr_code_link": "https://coffeeapi.weebys.space/qr/latte5_qr.gif",
+        "qr_code_link": "https://coffeeapi.weebys.space/qr/latte5_qr.png",
         "discount_percent": "5"
     },
     {
@@ -36,7 +36,7 @@
         "type": "Mocha",
         "description": "Espresso with steamed milk and chocolate.",
         "image_link": "https://coffeeapi.weebys.space/images/mocha.jpg",
-        "qr_code_link": "https://coffeeapi.weebys.space/images/mocha15_qr.png",
+        "qr_code_link": "https://coffeeapi.weebys.space/qr/mocha15_qr.png",
         "discount_percent": "15"
     },
     {
@@ -44,7 +44,7 @@
         "type": "Macchiato",
         "description": "Espresso marked with a small amount of milk.",
         "image_link": "https://coffeeapi.weebys.space/images/macchiato.jpg",
-        "qr_code_link": "https://coffeeapi.weebys.space/images/macchiato5_qr.png",
+        "qr_code_link": "https://coffeeapi.weebys.space/qr/macchiato5_qr.png",
         "discount_percent": "5"
     },
     {
@@ -52,7 +52,7 @@
         "type": "Flat White",
         "description": "Espresso with steamed milk, less frothy than a latte.",
         "image_link": "https://coffeeapi.weebys.space/images/flatwhite.jpg",
-        "qr_code_link": "https://coffeeapi.weebys.space/images/flatwhite10_qr.png",
+        "qr_code_link": "https://coffeeapi.weebys.space/qr/flatwhite10_qr.png",
         "discount_percent": "10"
     }
 ]
